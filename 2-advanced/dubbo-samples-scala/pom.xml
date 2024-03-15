@@ -36,7 +36,7 @@
         <dubbo.version>3.2.6</dubbo.version>
         <spring.version>4.3.30.RELEASE</spring.version>
         <scala.version>2.12.18</scala.version>
-        <zookeeper.version>3.8.3</zookeeper.version>
+        <zookeeper.version>3.8.4</zookeeper.version>
         <log4j2.version>2.20.0</log4j2.version>
         <junit.version>4.13.1</junit.version>
     </properties>
